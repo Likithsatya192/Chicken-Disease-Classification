@@ -1,4 +1,4 @@
-# Chicken Disease Classification
+# End-to-End Chicken Disease Classification
 
 This project uses deep learning to classify chicken fecal images as either healthy or infected with Coccidiosis. It leverages TensorFlow/Keras for model training and prediction, and is structured for reproducibility and scalability.
 
